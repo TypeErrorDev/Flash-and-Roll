@@ -1,0 +1,12 @@
+.container{
+    /*outline: 1px solid red;*/
+    background-color: #103e28;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 25rem;
+    height: 30rem;
+    border: 3px solid #cdc915;
+    border-radius: 1vw 2vh;
+}
